@@ -1,3 +1,10 @@
+-- Criar banco de dados
+CREATE DATABASE bd_barbersclub;
+GO
+
+USE bd_barbersclub;
+GO
+
 -- Admin table
 CREATE TABLE Admin (
   id INTEGER PRIMARY KEY IDENTITY,
